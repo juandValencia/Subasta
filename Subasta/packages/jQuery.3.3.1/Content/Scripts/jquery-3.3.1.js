@@ -13,7 +13,7 @@
  */
  (function()){}
  seguridad de sw 2021 UPB
-
+seguridad de sw 2021 UPB
 ( function( global, factory ) {
 
 	"use strict";
