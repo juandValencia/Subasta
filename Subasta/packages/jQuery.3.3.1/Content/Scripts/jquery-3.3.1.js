@@ -12,6 +12,7 @@
  * Date: 2018-01-20T17:24Z
  */
  (function()){}
+  seguridad en el sw 2021 UPB
 ( function( global, factory ) {
 
 	"use strict";
